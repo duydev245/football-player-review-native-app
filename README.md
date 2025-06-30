@@ -49,8 +49,11 @@ A mobile application built with **React Native** (Expo) that allows users to bro
 ## 📂 Project Structure
 
 📁 components/ # Reusable UI like PlayerCard, FeedbackCard
+
 📁 screens/ # HomeScreen, DetailScreen, FavoritesScreen, SettingsScreen
+
 📁 utils/ # Helpers (AsyncStorage handlers)
+
 📄 App.js # Root file with navigation
 
 ---
